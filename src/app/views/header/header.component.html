@@ -5,6 +5,11 @@
   </div>
   <div class="nav-menu">
     <ul>
+      <li *ngFor="let menuItem of menuItems">
+        <a [routerLink]="getRounterLink(menuItem)">{{menuItem.label}}</a>
+      </li>
+    </ul>
+    <!-- <ul>
       <li class="current_page_item">
         <a href="https://towardstogetherness.azurewebsites.net/">Home</a>
       </li>
@@ -41,6 +46,6 @@
       <li class="page_item page-item-1835">
         <a href="https://towardstogetherness.azurewebsites.net/bio/">BIO</a>
       </li>
-    </ul>
+    </ul> -->
   </div>
 </div>

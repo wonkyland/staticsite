@@ -1,0 +1,50 @@
+[
+  {
+    "label": "Home",
+    "type": "content",
+    "folder": "pages",
+    "title": "Home"
+  },
+  {
+    "label": "Food Related",
+    "type": "content",
+    "folder": "pages",
+    "title": "Food Related"
+  },
+  {
+    "label": "Niva to Nenets",
+    "type": "content",
+    "folder": "pages",
+    "title": "Niva to Nenets"
+  },
+  {
+    "label": "Probing",
+    "type": "content",
+    "folder": "pages",
+    "title": "Probing"
+  },
+  {
+    "label": "Thesis",
+    "type": "content",
+    "folder": "pages",
+    "title": "Thesis"
+  },
+  {
+    "label": "Publications",
+    "type": "content",
+    "folder": "pages",
+    "title": "Publications"
+  },
+  {
+    "label": "Early work",
+    "type": "content",
+    "folder": "pages",
+    "title": "Early work"
+  },
+  {
+    "label": "Bio",
+    "type": "content",
+    "folder": "pages",
+    "title": "Bio"
+  }
+]

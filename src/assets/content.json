@@ -1,0 +1,43 @@
+[
+  {
+    "folder": "pages",
+    "pages": [
+      {
+        "title": "Home",
+        "file": "assets/pages/Home.md",
+        "tags": [ "Me" ],
+        "date": "2022-10-10 19:52:00"
+      },
+      {
+        "title": "Food Related",
+        "file": "assets/pages/Food Related.md",
+        "tags": [ "Projects" ],
+        "date": "2022-10-12 09:22:00"
+      },
+      {
+        "title": "Niva to Nenets",
+        "file": "assets/pages/Niva to Nenets.md",
+        "tags": [ "Projects" ],
+        "date": "2022-10-12 09:22:00"
+      },
+      {
+        "title": "Probing",
+        "file": "assets/pages/Probing.md",
+        "tags": [ ],
+        "date": "2022-10-12 09:22:00"
+      },
+      {
+        "title": "Thesis",
+        "file": "assets/pages/Thesis.md",
+        "tags": [ ],
+        "date": "2022-10-12 09:22:00"
+      },
+      {
+        "title": "Publications",
+        "file": "assets/pages/Publications.md",
+        "tags": [ ],
+        "date": "2022-10-12 09:22:00"
+      }
+    ]
+  }
+]

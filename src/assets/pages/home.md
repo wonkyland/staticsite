@@ -1,8 +1,6 @@
-###### title: Post one
 ###### date: '2022-10-11T15:30:00'
 ###### author: RvK
-###### tags: [Rewilding, Hiking, Gender, A new start]
-###### template: PostImageRight
+###### tags: Me
 
 # Storytelling and participatory practices to inquire, artistically.
 
