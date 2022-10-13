@@ -12,3 +12,7 @@ Within the *Food Related* project, feelings of togetherness were aimed at in the
 
 I worked on the Food Related project between 2009 and 2012. The prototype of the platform is still online and can be found at
 <a href="http://www.foodrelated.org" target="_blank">www.foodrelated.org</a>.
+
+<br>
+<br>
+<br>

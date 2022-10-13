@@ -13,3 +13,7 @@ One can say that I am a probing artist, as I probe people for their experiences,
 Food Related, Niva to Nenets, and an in-depth exploration of probing were the main topics of my art-based PhD research ***Towards Togetherness: Probing as a Decolonizing Approach for Artistic Inquiry***, which I defended in 2018 at
 <a href="https://www.luca-arts.be/en" target="_blank">LUCA Faculty of the Arts</a>, Association 
 <a href="https://www.kuleuven.be/english/" target="_blank">KU Leuven</a> (Belgium).
+
+<br>
+<br>
+<br>

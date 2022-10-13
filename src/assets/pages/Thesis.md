@@ -10,6 +10,7 @@ The thesis consists or five maps, bundled with a booklet for notes, a leaflet fo
 
 <div align="center">
   <img src="assets/images/Thesis.jpg"/>
+  <img src="assets/images/Thesis2.jpg"/>
 </div>
 
 - <a href="assets/media/Rosanne_vanKlaveren_Thesis.zip" target="_blank">download full thesis</a> (61,3MB)
@@ -29,3 +30,6 @@ The presented findings give possible answers to the question how probing art can
 - **Co-promotor:** Prof. Liesbeth Huybrechts
 - **Additional supervisors:** Dr. Veerle Van der Sluys, Dr. Cunera Buijs, Jeroen Toirkens.
 
+<br>
+<br>
+<br>

@@ -9,3 +9,7 @@ Input of others is highly appreciated and searched for within my art and art mak
 <div align="center">
   <img src="assets/images/Mockup.jpg"/>
 </div>
+
+<br>
+<br>
+<br>

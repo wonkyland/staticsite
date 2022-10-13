@@ -37,6 +37,18 @@
         "file": "assets/pages/Publications.md",
         "tags": [ ],
         "date": "2022-10-12 09:22:00"
+      },
+      {
+        "title": "Early Work",
+        "file": "assets/pages/Early Work.md",
+        "tags": [ ],
+        "date": "2022-10-12 09:22:00"
+      },
+      {
+        "title": "Bio",
+        "file": "assets/pages/Bio.md",
+        "tags": [ ],
+        "date": "2022-10-12 09:22:00"
       }
     ]
   }
