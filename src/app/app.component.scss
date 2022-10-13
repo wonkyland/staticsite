@@ -1,0 +1,26 @@
+.page-container {
+  padding: 0 40px;
+  margin-top: 48px;
+  margin-bottom: 48px;
+}
+
+.page {
+  margin: 0 auto;
+  max-width: 960px;
+  overflow: hidden;
+  background-color: #fff;
+  margin-top: 48px;
+  margin-bottom: 48px;
+  padding: 40px;
+  box-shadow: 0 2px 6px rgb(100 100 100 / 30%);
+}
+
+.primary {
+  float: left;
+  width: 65.104166667%;
+}
+
+.secondary {
+  float: right;
+  width: 26.041666667%;
+}
