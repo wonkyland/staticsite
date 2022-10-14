@@ -30,10 +30,13 @@ export class ContentComponent implements OnInit {
           if (contentFolder?.files) {
             const files = Array.from(contentFolder.files);
             console.log(files);
-            const contentFilesWithTag = files.filter(file => {
-              const tags = Array.from(file.tags);
-              return tags.includes(tag);
-            });
+            let contentFilesWithTag = files; // All files
+            if (tag !== "[all]") {
+              contentFilesWithTag = files.filter(file => {
+                const tags = Array.from(file.tags);
+                return tags.includes(tag);
+              });
+            }
             console.log(contentFilesWithTag);
             if (contentFilesWithTag && contentFilesWithTag.length > 0) {
               this.markdownPaths = contentFilesWithTag.map(f => f.path);

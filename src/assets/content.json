@@ -48,13 +48,13 @@
     "folder": "posts",
     "files": [
       {
-        "path": "assets/posts/PhD Defence.md",
-        "tags": [ "PhD Defence", "Presentations & exhibitions" ],
+        "path": "assets/posts/Representing Reindeer.md",
+        "tags": [ "Representing Reindeer" ],
         "date": "2022-10-10 19:52:00"
       },
       {
-        "path": "assets/posts/Representing Reindeer.md",
-        "tags": [ "Representing Reindeer" ],
+        "path": "assets/posts/PhD Defence.md",
+        "tags": [ "PhD Defence", "Presentations & exhibitions" ],
         "date": "2022-10-10 19:52:00"
       },
       {
@@ -110,6 +110,36 @@
       {
         "path": "assets/posts/Cultural probes and the power of creativity.md",
         "tags": [ "Thoughts & writings" ],
+        "date": "2022-10-10 19:52:00"
+      },
+      {
+        "path": "assets/posts/Making stamps.md",
+        "tags": [ "Work in progress" ],
+        "date": "2022-10-10 19:52:00"
+      },
+      {
+        "path": "assets/posts/Calendar for Arctic Peoples Alert.md",
+        "tags": [ "Work in progress" ],
+        "date": "2022-10-10 19:52:00"
+      },
+      {
+        "path": "assets/posts/Logo NIVA TO NENETS.md",
+        "tags": [ "Work in progress" ],
+        "date": "2022-10-10 19:52:00"
+      },
+      {
+        "path": "assets/posts/A short visit to a Nenets chum on the tundra.md",
+        "tags": [ "Work in progress" ],
+        "date": "2022-10-10 19:52:00"
+      },
+      {
+        "path": "assets/posts/Guest lessons in Naryan Mar.md",
+        "tags": [ "Work in progress" ],
+        "date": "2022-10-10 19:52:00"
+      },
+      {
+        "path": "assets/posts/View modes for FOOD RELATED.md",
+        "tags": [ "Work in progress" ],
         "date": "2022-10-10 19:52:00"
       }
     ]
