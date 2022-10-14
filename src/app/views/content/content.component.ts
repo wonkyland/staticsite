@@ -14,19 +14,31 @@ export class ContentComponent implements OnInit {
 
   constructor(private router: Router, private route: ActivatedRoute, private markdownService: MarkdownService) { }
 
-  public markdownSource = StaticSiteDefault.HomeSource;
+  public markdownPaths = [ StaticSiteDefault.HomeSource ];
 
   ngOnInit() {
     console.log(`onInit`);
 
     this.router.events.subscribe(val => {
       if (val instanceof RoutesRecognized) {
-        if (val?.state?.root?.firstChild?.params['folder'] && val?.state?.root?.firstChild?.params['title']) {
+        // The route is content/:folder/:tag
+        if (val?.state?.root?.firstChild?.params['folder'] && val?.state?.root?.firstChild?.params['tag']) {
           const folder = val.state.root.firstChild.params['folder'];
-          const title = val.state.root.firstChild.params['title'];
+          const tag = val.state.root.firstChild.params['tag'];
+          console.log(`Folder: '${folder}' Tag: '${tag}'`);
           const contentFolder = Content.find(c => c.folder === folder);
-          const contentPage = contentFolder?.pages.find(p => p.title === title);
-          this.markdownSource = contentPage?.file ?? StaticSiteDefault.HomeSource;
+          if (contentFolder?.files) {
+            const files = Array.from(contentFolder.files);
+            console.log(files);
+            const contentFilesWithTag = files.filter(file => {
+              const tags = Array.from(file.tags);
+              return tags.includes(tag);
+            });
+            console.log(contentFilesWithTag);
+            if (contentFilesWithTag && contentFilesWithTag.length > 0) {
+              this.markdownPaths = contentFilesWithTag.map(f => f.path);
+            }  
+          }
         }
       }
    });

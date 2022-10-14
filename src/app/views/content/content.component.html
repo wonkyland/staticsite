@@ -1,3 +1,5 @@
 <div class="container-markdown">
-  <markdown [src]="markdownSource"></markdown>
+  <div *ngFor="let markdownPath of markdownPaths">
+    <markdown [src]="markdownPath"></markdown>
+  </div>
 </div>

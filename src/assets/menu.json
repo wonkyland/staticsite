@@ -1,50 +1,42 @@
 [
   {
     "label": "Home",
-    "type": "content",
     "folder": "pages",
-    "title": "Home"
+    "tag": "Menu Home"
   },
   {
     "label": "Food Related",
-    "type": "content",
     "folder": "pages",
-    "title": "Food Related"
+    "tag": "Menu Food Related"
   },
   {
     "label": "Niva to Nenets",
-    "type": "content",
     "folder": "pages",
-    "title": "Niva to Nenets"
+    "tag": "Menu Niva to Nenets"
   },
   {
     "label": "Probing",
-    "type": "content",
     "folder": "pages",
-    "title": "Probing"
+    "tag": "Menu Probing"
   },
   {
     "label": "Thesis",
-    "type": "content",
     "folder": "pages",
-    "title": "Thesis"
+    "tag": "Menu Thesis"
   },
   {
     "label": "Publications",
-    "type": "content",
     "folder": "pages",
-    "title": "Publications"
+    "tag": "Menu Publications"
   },
   {
     "label": "Early Work",
-    "type": "content",
     "folder": "pages",
-    "title": "Early Work"
+    "tag": "Menu Early Work"
   },
   {
     "label": "Bio",
-    "type": "content",
     "folder": "pages",
-    "title": "Bio"
+    "tag": "Menu Bio"
   }
 ]

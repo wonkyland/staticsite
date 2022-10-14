@@ -4,6 +4,7 @@ import { MenuDto } from '../../models/MenuDto';
 
 import Menu from '../../../assets/menu.json';
 import Content from '../../../assets/content.json';
+import { StaticSiteDefault } from 'src/app/models/StaticSiteDefault';
 
 @Component({
   selector: 'app-header',
@@ -23,15 +24,7 @@ export class HeaderComponent implements OnInit {
   }
   
   public getRounterLink(menuItem : MenuDto.MenuItem) {
-    let returnValue = [ 'content', 'pages', 'Home']; // Home page
-
-    switch (menuItem.type) {
-      case "content":
-        returnValue = [ "content", menuItem.folder, menuItem.title ];
-        break;
-      default:
-        break;
-    }
+    let returnValue = [ StaticSiteDefault.TopLevelRouteParameter, menuItem.folder, menuItem.tag ];
 
     return returnValue;
   }

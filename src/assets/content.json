@@ -1,53 +1,45 @@
 [
   {
     "folder": "pages",
-    "pages": [
+    "files": [
       {
-        "title": "Home",
-        "file": "assets/pages/Home.md",
-        "tags": [ "Me" ],
+        "path": "assets/pages/Home.md",
+        "tags": [ "Menu Home" ],
         "date": "2022-10-10 19:52:00"
       },
       {
-        "title": "Food Related",
-        "file": "assets/pages/Food Related.md",
-        "tags": [ "Projects" ],
+        "path": "assets/pages/Food Related.md",
+        "tags": [ "Menu Food Related" ],
         "date": "2022-10-12 09:22:00"
       },
       {
-        "title": "Niva to Nenets",
-        "file": "assets/pages/Niva to Nenets.md",
-        "tags": [ "Projects" ],
+        "path": "assets/pages/Niva to Nenets.md",
+        "tags": [ "Menu Niva to Nenets" ],
         "date": "2022-10-12 09:22:00"
       },
       {
-        "title": "Probing",
-        "file": "assets/pages/Probing.md",
-        "tags": [ ],
+        "path": "assets/pages/Probing.md",
+        "tags": [ "Menu Probing" ],
         "date": "2022-10-12 09:22:00"
       },
       {
-        "title": "Thesis",
-        "file": "assets/pages/Thesis.md",
-        "tags": [ ],
+        "path": "assets/pages/Thesis.md",
+        "tags": [ "Menu Thesis" ],
         "date": "2022-10-12 09:22:00"
       },
       {
-        "title": "Publications",
-        "file": "assets/pages/Publications.md",
-        "tags": [ ],
+        "path": "assets/pages/Publications.md",
+        "tags": [ "Menu Publications" ],
         "date": "2022-10-12 09:22:00"
       },
       {
-        "title": "Early Work",
-        "file": "assets/pages/Early Work.md",
-        "tags": [ ],
+        "path": "assets/pages/Early Work.md",
+        "tags": [ "Menu Early Work" ],
         "date": "2022-10-12 09:22:00"
       },
       {
-        "title": "Bio",
-        "file": "assets/pages/Bio.md",
-        "tags": [ ],
+        "path": "assets/pages/Bio.md",
+        "tags": [ "Menu Bio" ],
         "date": "2022-10-12 09:22:00"
       }
     ]
