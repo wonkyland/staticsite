@@ -49,7 +49,7 @@
     "files": [
       {
         "path": "assets/posts/PhD Defence.md",
-        "tags": [ "PhD Defence" ],
+        "tags": [ "PhD Defence", "Presentations & exhibitions" ],
         "date": "2022-10-10 19:52:00"
       },
       {
@@ -59,7 +59,57 @@
       },
       {
         "path": "assets/posts/Doctoral Thesis.md",
-        "tags": [ "Doctoral Thesis" ],
+        "tags": [ "Doctoral Thesis", "Thoughts & writings" ],
+        "date": "2022-10-10 19:52:00"
+      },
+      {
+        "path": "assets/posts/NIVA TO NENETS Cooking Pot.md",
+        "tags": [ "Art probes" ],
+        "date": "2022-10-10 19:52:00"
+      },
+      {
+        "path": "assets/posts/Picnic blanket in Ittoqqortoormiit.md",
+        "tags": [ "Art probes" ],
+        "date": "2022-10-10 19:52:00"
+      },
+      {
+        "path": "assets/posts/NIVA TO NENETS Picnic-Quiz at PDC’12.md",
+        "tags": [ "Presentations & exhibitions" ],
+        "date": "2022-10-10 19:52:00"
+      },
+      {
+        "path": "assets/posts/Workshop on Human Values at PDC’12.md",
+        "tags": [ "Presentations & exhibitions" ],
+        "date": "2022-10-10 19:52:00"
+      },
+      {
+        "path": "assets/posts/NIVA TO NENETS Picnic-Quiz at Danish Art Workshops.md",
+        "tags": [ "Presentations & exhibitions" ],
+        "date": "2022-10-10 19:52:00"
+      },
+      {
+        "path": "assets/posts/NIVA TO NENETS Picnic-Quiz at Extrapool.md",
+        "tags": [ "Presentations & exhibitions" ],
+        "date": "2022-10-10 19:52:00"
+      },
+      {
+        "path": "assets/posts/FOOD RELATED Workshop in Tromsø.md",
+        "tags": [ "Presentations & exhibitions" ],
+        "date": "2022-10-10 19:52:00"
+      },
+      {
+        "path": "assets/posts/Exhibition and conference at DeFKA.md",
+        "tags": [ "Presentations & exhibitions" ],
+        "date": "2022-10-10 19:52:00"
+      },
+      {
+        "path": "assets/posts/The social power of art.md",
+        "tags": [ "Thoughts & writings" ],
+        "date": "2022-10-10 19:52:00"
+      },
+      {
+        "path": "assets/posts/Cultural probes and the power of creativity.md",
+        "tags": [ "Thoughts & writings" ],
         "date": "2022-10-10 19:52:00"
       }
     ]
