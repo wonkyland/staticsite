@@ -1,3 +1,12 @@
-<p>
-  works!
-</p>
+<div class="aside-group" *ngFor="let asideGroup of asideGroups">
+  <h3>{{asideGroup.title}}</h3>
+  <ul>
+    <li *ngFor="let menuItem of asideGroup.menuItems">
+      <a [routerLink]="getRounterLink(menuItem)">{{menuItem.label}}</a>
+    </li>
+  </ul>
+</div>
+
+<!-- <div class="aside-markdown">
+  <markdown [src]="'/assets/miscellaneous/aside.md'"></markdown>
+</div> -->

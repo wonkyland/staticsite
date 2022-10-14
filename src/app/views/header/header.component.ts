@@ -1,9 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 
-import { MenuDto } from '../../models/MenuDto';
+import { NavigationDto } from '../../models/NavigationDto';
 
 import Menu from '../../../assets/menu.json';
-import Content from '../../../assets/content.json';
 import { StaticSiteDefault } from 'src/app/models/StaticSiteDefault';
 
 @Component({
@@ -12,18 +11,14 @@ import { StaticSiteDefault } from 'src/app/models/StaticSiteDefault';
   styleUrls: ['./header.component.scss']
 })
 export class HeaderComponent implements OnInit {
-  public menuItems: MenuDto.MenuItem[] = Menu;
+  public menuItems: NavigationDto.MenuItem[] = Menu;
 
   constructor() { }
 
   ngOnInit() {
   }
 
-  private getContent(folder: string, title: string) {
-
-  }
-  
-  public getRounterLink(menuItem : MenuDto.MenuItem) {
+  public getRounterLink(menuItem : NavigationDto.MenuItem) {
     let returnValue = [ StaticSiteDefault.TopLevelRouteParameter, menuItem.folder, menuItem.tag ];
 
     return returnValue;
