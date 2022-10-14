@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Recent",
+    "menuItems":
+      [
+        {
+          "label": "Representing Reindeer",
+          "folder": "posts",
+          "tag": "Representing Reindeer"
+        },
+        {
+          "label": "PhD Defence",
+          "folder": "posts",
+          "tag": "PhD Defence"
+        },
+        {
+          "label": "Doctoral Thesis",
+          "folder": "posts",
+          "tag": "Doctoral Thesis"
+        }
+      ]
+  },
+  {
+    "title": "Archive",
+    "menuItems":
+      [
+        {
+          "label": "Art probes",
+          "folder": "posts",
+          "tag": "Art probes"
+        },
+        {
+          "label": "Presentations & exhibitions",
+          "folder": "posts",
+          "tag": "Presentations & exhibitions"
+        },
+        {
+          "label": "Thoughts & writings",
+          "folder": "posts",
+          "tag": "Thoughts & writings"
+        },
+        {
+          "label": "All blog posts",
+          "folder": "posts",
+          "tag": "[all]"
+        }
+      ]
+  }
+]
