@@ -1,6 +1,6 @@
 {
   "name": "staticsite",
-  "version": "0.9.1",
+  "version": "0.10.0",
   "scripts": {
     "start": "ng serve",
     "build:prod": "ng build --configuration production --base-href https://EddyRubens.github.io/staticsite/",
