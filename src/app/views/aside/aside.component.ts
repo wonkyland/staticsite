@@ -17,7 +17,7 @@ export class AsideComponent implements OnInit {
   }
 
   public getRounterLink(menuItem : NavigationDto.MenuItem) {
-    let returnValue = [ StaticSiteDefault.TopLevelRouteParameter ];
+    let returnValue = [ StaticSiteDefault.ContentRoute ];
 
     return returnValue;
   }

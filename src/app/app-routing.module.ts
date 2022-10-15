@@ -4,7 +4,7 @@ import { AppComponent } from './app.component';
 import { StaticSiteDefault } from './models/StaticSiteDefault';
 
 const routes: Routes = [
-  { path: StaticSiteDefault.ContentRoute, component: AppComponent }
+  { path: '**', component: AppComponent }
 ];
 
 @NgModule({
