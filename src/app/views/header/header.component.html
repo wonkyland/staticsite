@@ -6,7 +6,7 @@
   <div class="nav-menu">
     <ul>
       <li *ngFor="let menuItem of menuItems">
-        <a [routerLink]="getRounterLink(menuItem)">{{menuItem.label}}</a>
+        <a [routerLink]="getRounterLink(menuItem)" [queryParams]="getQueryParams(menuItem)">{{menuItem.label}}</a>
       </li>
     </ul>
     <!-- <ul>

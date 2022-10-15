@@ -17,8 +17,15 @@ export class AsideComponent implements OnInit {
   }
 
   public getRounterLink(menuItem : NavigationDto.MenuItem) {
-    let returnValue = [ StaticSiteDefault.TopLevelRouteParameter, menuItem.folder, menuItem.tag ];
+    let returnValue = [ StaticSiteDefault.TopLevelRouteParameter ];
 
     return returnValue;
   }
+
+  public getQueryParams(menuItem : NavigationDto.MenuItem) {
+    let returnValue = { f: StaticSiteDefault.cononicalizeUrl(menuItem.folder), t: StaticSiteDefault.cononicalizeUrl(menuItem.tag) };
+
+    return returnValue;
+  }
+
 }

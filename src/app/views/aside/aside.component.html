@@ -2,7 +2,7 @@
   <h3>{{asideGroup.title}}</h3>
   <ul>
     <li *ngFor="let menuItem of asideGroup.menuItems">
-      <a [routerLink]="getRounterLink(menuItem)">{{menuItem.label}}</a>
+      <a [routerLink]="getRounterLink(menuItem)" [queryParams]="getQueryParams(menuItem)">{{menuItem.label}}</a>
     </li>
   </ul>
 </div>

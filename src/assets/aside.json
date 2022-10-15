@@ -42,7 +42,7 @@
         {
           "label": "All blog posts",
           "folder": "posts",
-          "tag": "[all]"
+          "tag": ""
         }
       ]
   }
