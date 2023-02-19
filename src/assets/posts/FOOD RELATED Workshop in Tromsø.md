@@ -1,7 +1,3 @@
-###### date: '2022-10-11T15:30:00'
-###### author: RvK
-###### tags: Presentations & exhibitions
-
 # FOOD RELATED Workshop in Tromsø
 
 <div align="center">

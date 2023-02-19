@@ -1,7 +1,3 @@
-###### date: '2022-10-11T15:30:00'
-###### author: RvK
-###### tags: Work in progress
-
 # View modes for FOOD RELATED
 
 The first prototype of the ***FOOD RELATED*** platform will have three mappings: a **Geographic View** shows the entries in relation to their geographic location, a **Foodgroup View** shows the entries in relation to their ingredients or food items, and a **Historic View** shows all entries in order of publication. Future versions will include more mappings and forum options. People will be able to comment on each other’s entries and to start discussions.

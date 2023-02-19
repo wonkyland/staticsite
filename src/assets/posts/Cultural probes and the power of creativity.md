@@ -1,7 +1,3 @@
-###### date: '2022-10-11T15:30:00'
-###### author: RvK
-###### tags: Thoughts & writings
-
 # Cultural probes and the power of creativity
 
 David Gauntlett wrote about the social meaning of creativity in ‘Making is Connecting’. He explained how the Victorian Ruskin and Morris defined creativity *“as a part of everyday life, and as a binding force in ‘fellowship’, which today we would call community”* (Gauntlett, 2011). This binding force of the creative act itself seems to be just as adhesive as the dynamic agglutination Bourriaud described towards relational art. Gauntlett also connects his enthusiasm for DIY to political philosophies for a future world where all crafts and crafting is shared (Gauntlett, 2011). Although it is absolutely not my intention to ridicule his good intentions I am too skeptical or perhaps too cynical to believe that creativity alone can actually save the world. I believe though, that the glue for stronger connections lies indeed in the act of making things together. **Creativity can be just as expressive as language but acts less intellectual. In by-passing intellectuality lies a clue to fellowship, as is also proofed in sports and gaming**.

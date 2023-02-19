@@ -1,7 +1,3 @@
-###### date: '2022-10-11T15:30:00'
-###### author: RvK
-###### tags: Projects
-
 # Food Related
 
 During my doctoral research at LUCA School of Arts (Association KU Leuven) in Belgium, a prototype of a website was designed to collect, map and exchange facts and experiences related to Arctic food: the Food Related platform. This prototype focuses on specific features of food and (Arctic) food cultures, and enables people to add recipes, anecdotes, news items or other entries related to Arctic food. As a proof of concept, this prototype illustrates how an artistic approach can enable or stimulate the collecting, sharing, and combining of different kinds of knowledge. The more than eighty entries form a broad collection that can be explored and replenished. The design of the website has three modes to access the contributions: a *Geographic View*, a *Foodgroup View*, and a *Historic View*.

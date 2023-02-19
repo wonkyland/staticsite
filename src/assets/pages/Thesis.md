@@ -1,7 +1,3 @@
-###### date: '2022-10-11T15:30:00'
-###### author: RvK
-###### tags:
-
 # Thesis
 
 You are welcome to download a digital version of my thesis, or one of its chapters, below.

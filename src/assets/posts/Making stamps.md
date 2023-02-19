@@ -1,7 +1,3 @@
-###### date: '2022-10-11T15:30:00'
-###### author: RvK
-###### tags: Work in progress
-
 # Making stamps...
 
 In a good Russian tradition, I made ‘official’ stamps for the ***NIVA TO NENETS*** project. More experimentation is needed to make better inkpads, but the stamps themselves seem to be perfect!

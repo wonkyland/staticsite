@@ -1,7 +1,3 @@
-###### date: '2022-10-11T15:30:00'
-###### author: RvK
-###### tags: Representing Reindeer
-
 # Representing Reindeer
 
 Reindeer fascinate me. The beauty of their antlers, the sounds they make, their stocky appearance compared to other deer, the uniqueness of their fur, their smell: I am a big fan!!! As I am also fascinated by their imagery, I am initiating a project that focuses on the representation of reindeer. At a time that we long for rewilding, how do we cope with the image of cute cuddly reindeer? What exactly makes a reindeer a reindeer, in essence or in spirit? Can we identify that without anthropomorphism, and can we keep this identification intact during representation?

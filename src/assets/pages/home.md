@@ -1,7 +1,3 @@
-###### date: '2022-10-11T15:30:00'
-###### author: RvK
-###### tags: Me
-
 # Storytelling and participatory practices to inquire, artistically.
 
 Hello, my name is Rozan van Klaveren. On this website, I introduce projects and share findings from my artistic research. As an artist, I experimented with possibilities for bringing people together through storytelling and new media for many years. As a researcher, I discovered how my approach can be inclusive towards other ways of knowing. From a profound interest in the Arctic cultures, I hope my work can contribute to the necessary processes of decolonization.

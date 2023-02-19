@@ -1,7 +1,3 @@
-###### date: '2022-10-11T15:30:00'
-###### author: RvK
-###### tags: Presentations & exhibitions
-
 # Workshop on Human Values at PDC’12
 
 On Sunday 12th of August a workshop on **Human Values within Participatory Design** was given during PDC’12 (Participatory Design Conference, Roskilde, Denmark). For a whole day long, approx. 24 people exchanged their experiences with the topic and develloped an approach for a specific case study. Although ‘being human’ is always a main aspect of Participatory Design in general, a specific focus on Human Values leads to interesting discussions and valuable outcomes. Especially when inclusion is one of the goals…

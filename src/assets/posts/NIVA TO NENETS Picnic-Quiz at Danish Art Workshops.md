@@ -1,7 +1,3 @@
-###### date: '2022-10-11T15:30:00'
-###### author: RvK
-###### tags: Presentations & exhibitions
-
 # NIVA TO NENETS Picnic-Quiz at Danish Art Workshops
 
 <div align="center">
