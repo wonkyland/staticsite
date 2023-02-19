@@ -1,7 +1,3 @@
-###### date: '2022-10-11T15:30:00'
-###### author: RvK
-###### tags: Presentations & exhibitions
-
 # Exhibition and conference at DeFKA
 
 I have exhibited my work in progress for ***FOOD RELATED*** and ***NIVA TO NENETS*** at DeFKa during ‘**INVESTIGATIONS on artistic research**‘ from 26 May till 18 June 2011. This exhibition opened with a conference day. I made an igloo shaped cake that was consumed by the participants from hand painted plates with hand written napkins before their debate about the practice of artistic research started. The cake functioned as an icebreaker, while the plates and napkins nourished conversations about my projects.

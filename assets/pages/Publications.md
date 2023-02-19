@@ -1,7 +1,3 @@
-###### date: '2022-10-11T15:30:00'
-###### author: RvK
-###### tags:
-
 # Publications
 
 A selection of publications written by Rosanne van Klaveren:

@@ -1,7 +1,3 @@
-###### date: '2022-10-11T15:30:00'
-###### author: RvK
-###### tags: Work in progress
-
 # Logo NIVA TO NENETS
 
 <div style="float: left;margin:0px 0px 0px 10px">

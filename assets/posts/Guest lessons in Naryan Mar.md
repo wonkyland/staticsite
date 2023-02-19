@@ -1,7 +1,3 @@
-###### date: '2022-10-11T15:30:00'
-###### author: RvK
-###### tags: Work in progress
-
 # Guest lessons in Naryan Mar
 
 During the last week of October I gave several guest lessons at the Naryan-Mar Socio-Humanitarian College in the Northwest of Russia (<a target="_blank" href="http://www.nmsgc.org">www.nmsgc.org</a>). I lectured not only about the ***NIVA TO NENETS*** project and the ***FOOD RELATED*** project, but also about Belgium and the Netherlands, and about the social function of art. After one of my presentations, the students wanted to make a group picture with my picnic blanket.

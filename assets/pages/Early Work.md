@@ -1,7 +1,3 @@
-###### date: '2022-10-11T15:30:00'
-###### author: RvK
-###### tags:
-
 # Early Work
 
 As an artist, I have been interested in working with participants since my graduation in Fine Arts at the HKA Art Academy (Arnhem, the Netherlands) in 1999. After this four-year education I studied a two-year post graduate programme in Photography at the College of Fine Arts and Design St. Joost/Brabant University (Breda, Netherlands), for which I graduated in 2001. In both exam works, the digital storytelling projects *The Wentinck Pages* and *Journey to the North*, I enabled viewers to participate in the course of action. During a professional art practice that followed these educational programmes, I continued to combine collaborative storytelling with new media use. This resulted in many participatory projects, often with a prevalent online presence. Some of these early projects are presented here below.

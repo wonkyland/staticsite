@@ -1,7 +1,3 @@
-###### date: '2022-10-11T15:30:00'
-###### author: RvK
-###### tags: Presentations & exhibitions
-
 # NIVA TO NENETS Picnic-Quiz at Extrapool
 
 **Vrijdag 8 Juni**, Extrapool, Tweede Walstraat 5, 6511 LN Nijmegen, Nederland.
