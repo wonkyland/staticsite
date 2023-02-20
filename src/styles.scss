@@ -2,6 +2,38 @@ html {
   overflow-y: scroll;
 }
 
+.site-title h1 {
+  font-size: 36px;
+  line-height: 0.666666667;
+  margin-bottom: 20px;
+  margin-top: 24px;
+  font-weight: bold;
+  color: #5e0600;
+}
+
+.site-title h2 {
+  font-size: 24px;
+  margin-bottom: 40px;
+  font-weight: normal;
+  color: #5e0600;
+}
+
+.footer {
+  border-top: 1px solid #ededed;
+  clear: both;
+  font-size: 12px;
+  line-height: 2;
+  max-width: 960px;
+  margin-top: 24px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 24px 0;
+}
+
+.footer p {
+  color: black;
+}
+
 body {
   background: #dddcce;
   color: #272822;
