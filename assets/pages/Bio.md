@@ -7,7 +7,7 @@
 
 
 **Contact:**
-rozan.vanklaveren(at)luca-arts(dot)be
+rozanvanklaveren(at)hotmail(dot)com
 
 <br>
 <br>
