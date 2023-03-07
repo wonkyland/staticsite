@@ -27,5 +27,4 @@ export class AsideComponent implements OnInit {
 
     return returnValue;
   }
-
 }

@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute, Router } from '@angular/router';
+import { ActivatedRoute } from '@angular/router';
 import { MarkdownService } from 'ngx-markdown';
 import { StaticSiteDefault } from 'src/app/models/StaticSiteDefault';
 
@@ -11,7 +11,7 @@ import Content from '../../../assets/content.json';
   styleUrls: ['./content.component.scss']
 })
 export class ContentComponent implements OnInit {
-  constructor(private router: Router, private route: ActivatedRoute, private markdownService: MarkdownService) { }
+  constructor(private route: ActivatedRoute, private markdownService: MarkdownService) { }
 
   public markdownPaths = [ StaticSiteDefault.HomeSource ];
 
@@ -52,5 +52,4 @@ export class ContentComponent implements OnInit {
       return `<h${level}>${text}</h${level}>`;
     };
   }
-
 }
