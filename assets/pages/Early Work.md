@@ -16,9 +16,9 @@ Altogether, I have experimented with a variety of ways for participants to expre
 
 My MFA exam work **Journey to the North – Adventures of an Avatar** is an online diary in word, image and sound, in which my fictional alter-ego reports about her journey: a fantasy that I was not able to experience in real life. Responses and advice from visitors of the website co-directed this fictional travel. After my graduation, I followed my desire to travel up North myself, while writing a second diary: **Journey to the North – the Real Escapism**. As the two websites are linked, they intertwine imagination and reality, fact and fiction. 
 
-<a href="https://eddyrubens.github.io/legacy/journey/map.htm" target="_blank">Journey to the North – Adventures of an Avatar</a>
+<a href="https://wonkyland.github.io/legacy/journey/map.htm" target="_blank">Journey to the North – Adventures of an Avatar</a>
 
-<a href="https://eddyrubens.github.io/legacy/escapism/map.htm" target="_blank">Journey to the North – The Real Escapism</a>
+<a href="https://wonkyland.github.io/legacy/escapism/map.htm" target="_blank">Journey to the North – The Real Escapism</a>
 
 <br>
 <br>
@@ -34,11 +34,11 @@ My MFA exam work **Journey to the North – Adventures of an Avatar** is an onli
 
 **Braintec** won the Dutch **ISOC-award** for Internet and the Arts in 2002 and was nominated for the **International Media Art Price** in 2003. It is shown on many national and international festivals including the **Netherlands Film Festival, Ciber@rt, FILE** and **ISEA2004**.
 
-<a href="https://eddyrubens.github.io/legacy/braintec/index.htm" target="_blank">Braintec – Company Website</a>
+<a href="https://wonkyland.github.io/legacy/braintec/index.htm" target="_blank">Braintec – Company Website</a>
 
-<a href="https://eddyrubens.github.io/legacy/memoires/index.htm" target="_blank">Braintec – Memoires of a Testee</a>
+<a href="https://wonkyland.github.io/legacy/memoires/index.htm" target="_blank">Braintec – Memoires of a Testee</a>
 
-<a href="https://eddyrubens.github.io/legacy/grid/index.htm" target="_blank">Braintec – Humanupload Program</a>
+<a href="https://wonkyland.github.io/legacy/grid/index.htm" target="_blank">Braintec – Humanupload Program</a>
 
 <br>
 <br>
@@ -68,7 +68,7 @@ This project focusses on the media use of elderly people through a piece of furn
 
 This project was conducted in collaboration with **Vario Mundo**.
 
-<a href="https://eddyrubens.github.io/legacy/vathorst/" target="_blank">Verhalend Vathorst</a>
+<a href="https://wonkyland.github.io/legacy/vathorst/" target="_blank">Verhalend Vathorst</a>
 
 <br>
 <br>
