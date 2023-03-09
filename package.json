@@ -1,10 +1,10 @@
 {
   "name": "staticsite",
-  "version": "1.7.0",
-  "date": "2023-03-07",
+  "version": "1.8.0",
+  "date": "2023-03-09",
   "scripts": {
     "start": "ng serve",
-    "build:prod": "ng build --configuration production --base-href https://eddyrubens.github.io/staticsite/",
+    "build:prod": "ng build --configuration production --base-href https://wonkyland.github.io/staticsite/",
     "build": "ng build",
     "watch": "ng build --watch --configuration development"
   },
