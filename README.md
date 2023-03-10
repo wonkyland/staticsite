@@ -40,7 +40,7 @@ To test changes to pages and posts before uploading them to the internet, run th
 Your project will be built and after a few minutes your can navigate to `http://localhost:4200/` to view your changes on the local development server.
 > ![Success](BuildSuccess.png "Build success")
 
-Once the build process is started it will keep on running and on every change to the pages, it will rebuilt the site automatically. You don't even need to refresh the browser as it will refresh automatically on every page or post change.
+Once the build process is started, it will keep on running and on every change to the pages, it will rebuild the site automatically. You don't even need to refresh the browser as it will refresh automatically on every change.
 
 ---
 
@@ -51,6 +51,19 @@ When you are happy with the changes, you can send them to Github for publication
 - Type a short informational message about your changes
 - Click the 'Commit' button.
   - This will 'commit' your code LOCALLY only
-- Click the 'Sync' button to send it to Github
+- Click the 'Sync changes' button to send it to Github
+
+---
+
+# Build on Github
+
+When the changes are synced to Github, a Github action is triggered that will build a new version of the site and publish the new build on 'Github pages'.
+
+The progress of the build can be monitore at:
+> https://github.com/wonkyland/staticsite/actions
 
 It takes 3-5 minutes before your changes are published.
+
+When successful, the changes are visible on the site:
+
+> https://wonkyland.github.io/staticsite/
