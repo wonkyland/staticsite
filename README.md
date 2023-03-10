@@ -9,7 +9,9 @@ All content related files are in the folder:
 Don't change the files in the parent folders of the assets folder, unless you know what you are doing ;)
 
 ## Pages and posts
-The pages and posts are in a simplyfied format called 'markdown' and have the file extension '.md'. They are located in the folders:
+The pages and posts are in a simplyfied format called 'markdown' and have the file extension '.md'. For special formatting (centering, flowing text around image, etc) it may be necessary to use html as well.
+
+The pages and posts are located in the folders:
 
 > staticsite/src/assets/pages
 
@@ -19,6 +21,8 @@ The pages and posts are in a simplyfied format called 'markdown' and have the fi
 Images are stored in the folder:
 
 > staticsite/src/assets/images
+
+To add an image to a page use the following markdown: !\[your image description\](../images/Braintec.jpg)
 
 Other media files like zip, pdf, ... are stored in the folder:
 > staticsite/src/assets/media
