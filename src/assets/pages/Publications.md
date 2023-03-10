@@ -3,7 +3,9 @@
 A selection of publications written by Rosanne van Klaveren:
 
 <div style="float: right">
-  <img src="assets/images/AroundTheCampfire.png"/>
+
+  ![AroundTheCampfire](../images/AroundTheCampfire.png)
+
 </div>
 
 **Niva to Nenets: The making of a road-movie as a strategy for inclusive knowledge sharing** (2019). <a href="assets/media/Rosanne_VanKlaveren_Cumulus2019.pdf" target="_blank">download this paper</a>
@@ -17,7 +19,8 @@ The CUMULUS Rovaniemi 2019 conference “Around the Campfire – Resilience and 
 <br>
 
 <div style="float: right">
-  <img src="assets/images/EthnoScripts.png"/>
+
+  ![EthnoScripts](../images/EthnoScripts.png)
 </div>
 
 **Food Related: An artistic approach towards knowledge sharing** (2015). <a href="assets/media/Rosanne_vanKlaveren_EthnoScripts.pdf" target="_blank">download this paper</a>
@@ -31,7 +34,9 @@ This thematic issue on Anthropology and Art presents critical reflections on the
 <br>
 
 <div style="float: right">
-  <img src="assets/images/Rhizope.png"/>
+
+  ![Rhizope](../images/Rhizope.png)
+
 </div>
 
 **Wolf Within: Should artists conducting academic research wear sheep’ clothing?** (2014). <a href="assets/media/Rosanne_vanKlaveren_RHIZOPE.pdf" target="_blank">download this essay</a>
@@ -45,7 +50,9 @@ This book is the result of a conference and exhibition that focuses on art and s
 <br>
 
 <div style="float: right;margin:0px 0px 0px 10px">
-  <img src="assets/images/FieldNotes.jpg"/>
+
+  ![FieldNotes](../images/FieldNotes.jpg)
+
 </div>
 
 **The Importance of Fieldwork for Border Crossing Frames of Mind: Probing for fine madness** (2013). <a href="assets/media/vanKlaveren_Fieldnotes.pdf" target="_blank">download this chapter</a>
@@ -61,7 +68,9 @@ This book is the result of field laboratory which took place in 2011 in Kilpisj�
 <br>
 
 <div style="float: right;margin:0px 0px 0px 10px">
-  <img src="assets/images/KunstVanHetWandelen.jpg"/>
+
+  ![KunstVanHetWandelen](../images/KunstVanHetWandelen.jpg)
+
 </div>
 
 **De Kunst van het Wandelen** (2006), Publication by CBK-Gelderland, Netherlands

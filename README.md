@@ -46,7 +46,7 @@ The build will start and when successful the message 'Compiled successfully' wil
 
 Then you can navigate to `http://localhost:4200/` to view your changes served by the local development server.
 
-Once the build process is started, it will keep on running. On every change to the pages, it will rebuild the site automatically. You don't even need to refresh the browser as it will refresh automatically on every change.
+Once the build process is started, it will keep on running. On every change to the pages, it will rebuild the site automatically. Refresh the browser (F5) to see the changes.
 
 ---
 

@@ -11,14 +11,15 @@ Altogether, I have experimented with a variety of ways for participants to expre
 **JOURNEY TO THE NORTH** (2001-2002) – Websites
 
 <div style="float: left; margin: 10px 24px 0px 0px;">
-  <img src="assets/images/JourneyToTheNorth.jpg"/>
+
+  ![JourneyToTheNorth](../images/JourneyToTheNorth.jpg)
 </div>
 
 My MFA exam work **Journey to the North – Adventures of an Avatar** is an online diary in word, image and sound, in which my fictional alter-ego reports about her journey: a fantasy that I was not able to experience in real life. Responses and advice from visitors of the website co-directed this fictional travel. After my graduation, I followed my desire to travel up North myself, while writing a second diary: **Journey to the North – the Real Escapism**. As the two websites are linked, they intertwine imagination and reality, fact and fiction. 
 
-<a href="https://wonkyland.github.io/legacy/journey/map.htm" target="_blank">Journey to the North – Adventures of an Avatar</a>
+[Journey to the North – Adventures of an Avatar](https://wonkyland.github.io/legacy/journey/map.htm)
 
-<a href="https://wonkyland.github.io/legacy/escapism/map.htm" target="_blank">Journey to the North – The Real Escapism</a>
+[Journey to the North – The Real Escapism](https://wonkyland.github.io/legacy/escapism/map.htm)
 
 <br>
 <br>
@@ -27,18 +28,21 @@ My MFA exam work **Journey to the North – Adventures of an Avatar** is an onli
 **BRAINTEC** (2002-2005) – Websites and performances
 
 <div style="float: left; margin: 10px 24px 0px 0px;">
-  <img src="assets/images/Braintec.jpg"/>
+
+  ![Braintec](../images/Braintec.jpg)
+
 </div>
 
 **Braintec** is an online collaborative storytelling project about an American research company that does research on the recalling of memories through brain implants, using human test subjects. The project exists of three websites, an installation and a series of performances in which I recruited participants to become test subjects in the research program.
 
 **Braintec** won the Dutch **ISOC-award** for Internet and the Arts in 2002 and was nominated for the **International Media Art Price** in 2003. It is shown on many national and international festivals including the **Netherlands Film Festival, Ciber@rt, FILE** and **ISEA2004**.
 
-<a href="https://wonkyland.github.io/legacy/braintec/index.htm" target="_blank">Braintec – Company Website</a>
+[Braintec – Company Website](https://wonkyland.github.io/legacy/braintec/index.htm)
 
-<a href="https://wonkyland.github.io/legacy/memoires/index.htm" target="_blank">Braintec – Memoires of a Testee</a>
+[Braintec – Memoires of a Testee](https://wonkyland.github.io/legacy/memoires/index.htm)
 
-<a href="https://wonkyland.github.io/legacy/grid/index.htm" target="_blank">Braintec – Humanupload Program</a>
+
+[Braintec – Humanupload Program](https://wonkyland.github.io/legacy/grid/index.htm)
 
 <br>
 <br>
@@ -47,7 +51,9 @@ My MFA exam work **Journey to the North – Adventures of an Avatar** is an onli
 **REGISTER VAN DE DAG VAN GISTER** (2004-2005) 
 
 <div style="float: left; margin: 0px 24px 0px 0px;">
-  <img src="assets/images/RegisterVanDeDagVanGister.jpg"/>
+
+  ![RegisterVanDeDagVanGister](../images/RegisterVanDeDagVanGister.jpg)
+
 </div>
 
 This project focusses on the media use of elderly people through a piece of furniture made to collect stories and memories from the past. All collected material is automatically published on a website.
@@ -61,14 +67,14 @@ This project focusses on the media use of elderly people through a piece of furn
 **VERHALEND VATHORST** (2005) – website
 
 <div style="float: left; margin: 0px 24px 0px 0px;">
-  <img src="assets/images/VerhalendVathorst.jpg"/>
-</div>
+
+  ![VerhalendVathorst](../images/VerhalendVathorst.jpg)
 
 **Verhalend Vathorst** (Storified Vathorst) is a digital storytelling platform about the building of Vathorst, a new neighbourhood of the city Amersfoort. I collected stories from recently settled inhabitants and about the unfortunate destruction of farms, necessary to make space for the growth of the city.
 
 This project was conducted in collaboration with **Vario Mundo**.
 
-<a href="https://wonkyland.github.io/legacy/vathorst/" target="_blank">Verhalend Vathorst</a>
+[Verhalend Vathorst](https://wonkyland.github.io/legacy/vathorst/)
 
 <br>
 <br>
