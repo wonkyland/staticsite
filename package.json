@@ -1,7 +1,7 @@
 {
   "name": "staticsite",
-  "version": "1.8.0",
-  "date": "2023-03-09",
+  "version": "1.9.0",
+  "date": "2023-03-10",
   "scripts": {
     "start": "ng serve",
     "build:prod": "ng build --configuration production --base-href https://wonkyland.github.io/staticsite/",
