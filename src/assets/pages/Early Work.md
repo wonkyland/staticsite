@@ -11,7 +11,7 @@ Altogether, I have experimented with a variety of ways for participants to expre
 **JOURNEY TO THE NORTH** (2001-2002) – Websites
 
 <div style="float: left; margin: 10px 24px 0px 0px;">
-  <img src="../../assets/images/JourneyToTheNorth.jpg"/>
+  <img src="assets/images/JourneyToTheNorth.jpg"/>
 </div>
 
 My MFA exam work **Journey to the North – Adventures of an Avatar** is an online diary in word, image and sound, in which my fictional alter-ego reports about her journey: a fantasy that I was not able to experience in real life. Responses and advice from visitors of the website co-directed this fictional travel. After my graduation, I followed my desire to travel up North myself, while writing a second diary: **Journey to the North – the Real Escapism**. As the two websites are linked, they intertwine imagination and reality, fact and fiction. 
