@@ -5,8 +5,9 @@ You are welcome to download a digital version of my thesis, or one of its chapte
 The thesis consists or five maps, bundled with a booklet for notes, a leaflet for references, and a summary in English and in Dutch. As this thesis is part of my artistic research, I have tried to strengthen the explorative character and multi-faceted content through its design. One can choose to follow specific trails throughout all maps and the notes booklet, by following directions and markers. The design carries on the same ‘look and feel’ as my probing practice. For example, the fabric on the spine of each map comes from the blankets of the Picnic-Quizzes. As the digital version is less strong in appearance and in reading experience, you are invited to contact me for obtaining a physical copy. 
 
 <div align="center">
-  <img src="assets/images/Thesis.jpg"/>
-  <img src="assets/images/Thesis2.jpg"/>
+
+  ![Thesis](../images/Thesis.jpg)![Thesis](../images/Thesis2.jpg)
+
 </div>
 
 - <a href="assets/media/Rosanne_vanKlaveren_Thesis.zip" target="_blank">download full thesis</a> (61,3MB)

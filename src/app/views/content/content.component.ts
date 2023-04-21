@@ -43,13 +43,28 @@ export class ContentComponent implements OnInit {
       }
     });
 
-    this.markdownService.renderer.heading = (text: string, level: number) => {
-      // console.log(`Level: ${level} Code: ${text}`);
-      if (level === 6) {
-        return '';
-      }
+    // this.markdownService.renderer.heading = (text: string, level: number) => {
+    //   // console.log(`Level: ${level} Code: ${text}`);
+    //   if (level === 6) {
+    //     return '';
+    //   }
 
-      return `<h${level}>${text}</h${level}>`;
-    };
+    //   return `<h${level}>${text}</h${level}>`;
+    // };
+
+    this.markdownService.renderer.image = (href: string, title: string, text: string) => {
+      console.log(`href:${href} title:${title} text:${text}`);
+      const newHref = href.replace('..', 'assets');
+
+      return `<img src="${newHref}">`;
+    }
+
+    this.markdownService.renderer.link = (href: string, title: string, text: string) => {
+      console.log(`href:${href} title:${title} text:${text}`);
+      const titleHtml = title ? ` title="${title}"` : ``;
+      
+      return `<a href="${href}" target="_blank" ${titleHtml}>${text}</a>`;
+    }
+
   }
 }
