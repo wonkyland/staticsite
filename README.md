@@ -13,4 +13,4 @@ Once the build process is started it will keep on running and on evry change to 
 
 ## Uploading the changes
 
-When you are happy with the changes, you can send them to Github for publication. Click on the third button (Source control) of the left-hand side menu. Type a short message about your changes and click the 'Commit' button. This will 'commit' your code LOCALLY only. You have to click the 'Sync' button to send it to Github. It takes about 3-5 minutes before your changes are published.
+When you are happy with the changes, you can send them to Github for publication. Click on the third button (Source control) of the vertical left-hand side menu. Type a short message about your changes and click the 'Commit' button. This will 'commit' your code LOCALLY only. You have to click the 'Sync' button to send it to Github. It takes about 3-5 minutes before your changes are published.
